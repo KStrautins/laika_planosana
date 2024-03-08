@@ -1,0 +1,31 @@
+
+body {
+  color: purple;
+  background-image: url("../images/Time-Management-1760x880.png");
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+    border-radius: 20px;
+}
+#lietot {
+    text-align: center;
+}
+a {
+    color: green;
+}
+
+p {
+    text-align: center;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+.lietot {
+
+}

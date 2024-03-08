@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Mērvienības</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="mervienibas.css"/>
+    </head>
+    <body>
+        <h1> Informācijas daudzuma mērvienības </h1>
+        <form>
+            <p><input name="amount"> GB=</p>
+            <p><input onclick="quant.value=amount.value * 1000" name="mega" value="Izteikt megabaitos" type="button"><input name="quant"> MB</p>
+            <p><input onclick="quanti.value=amount.value * 1024" name="mibi" value="Izteikt mibibaitos" type="button"><input name="quanti"> MiB</p>
+        </form>
+    </body>
+</html>
