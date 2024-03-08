@@ -1,2 +1,1 @@
-# planosanalaika
-3versija
+# laika_planosana
